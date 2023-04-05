@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * Servlet 方法
  */
-@WebServlet(urlPatterns = "/demo2", loadOnStartup = 1)
+@WebServlet(urlPatterns = "/demo3", loadOnStartup = 1)
 public class servletDemo3 implements Servlet {
     private ServletConfig config;
 
